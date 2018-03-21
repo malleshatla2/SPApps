@@ -1,0 +1,7 @@
+C:\GitHub\SP2013\SPApps\bin\Debug\ApplicationInsights.config
+C:\GitHub\SP2013\SPApps\bin\Debug\SPApps.dll.config
+C:\GitHub\SP2013\SPApps\bin\Debug\SPApps.pdb
+C:\GitHub\SP2013\SPApps\obj\Debug\SPApps.csprojResolveAssemblyReference.cache
+C:\GitHub\SP2013\SPApps\obj\Debug\SPApps.csproj.CoreCompileInputs.cache
+C:\GitHub\SP2013\SPApps\obj\Debug\SPApps.dll
+C:\GitHub\SP2013\SPApps\obj\Debug\SPApps.pdb
